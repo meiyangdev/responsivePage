@@ -19,8 +19,6 @@ const LinksItem = styled.li`
   padding: 0 1.5em;
   font-weight: 500;
   font-size: 20px;
-  align-items: right;
-  justify-conten: center;
   color: black;
   display: flex;
   align-items: center;
