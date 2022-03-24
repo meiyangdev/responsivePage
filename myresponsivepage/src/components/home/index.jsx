@@ -51,8 +51,8 @@ const SidebarTitle = styled.h3`
 `;
 
 const SidebarList = styled.ul`
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
   display: inline-block;
   height: 20px;
   list-style: none;
